@@ -1,0 +1,3 @@
+Jurnal,Stiri,2,Informatii
+Reportaj,Informare,1,Viata la sat
+Divertisment,Film,3,Iron Man
