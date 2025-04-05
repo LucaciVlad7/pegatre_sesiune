@@ -1,0 +1,14 @@
+O scrisoare pierdută, Ion Caramitru, Comedie, 1200
+D'ale carnavalului, Silviu Purcărete, Satiră, 3400
+Livada de vișini, Lev Dodin, Dramă, 5600
+Conul Leonida față cu reacțiunea, Alexandru Dabija, Comedie, 1300
+Nora, Andrei Șerban, Dramă, 1500
+Rinocerii, Tompa Gábor, Satiră, 2200
+Moartea unui comis voiajor, Radu Penciulescu, Dramă, 3500
+Amadeus, Vlad Massaci, Altele (dramă istorică), 6500
+Revizorul, Felix Alexa, Satiră, 2300
+Deșteptarea primăverii, Vlad Cristache, Dramă, 5400
+Titlu,Regizor,Gen,1200
+Guweles rar,Etetujeme ,Comedie,2237
+Iyib qupepot,Uloga isu,Drama,3029
+Sose elazi,Laximegi ,Drama,220
